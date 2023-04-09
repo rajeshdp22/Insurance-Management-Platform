@@ -35,9 +35,10 @@ The insurance management platform has the following features:
 
 ## Tech stack includes:
 
-Spring boot 3.0.5 latest used in this application
-MySQL database
-Maven
+- Spring boot 3.0.5 latest used in this application
+- MySQL database
+- Maven
+- For Validation spring-boot-starter-validation (depedency)
 
 ## Requirements
 - Java - 18
