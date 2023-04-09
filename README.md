@@ -41,7 +41,7 @@ The insurance management platform has the following features:
 - For Validation spring-boot-starter-validation (depedency)
 
 ## Requirements
-- Java - 18
+- Java - 17
 - Maven - 3.8.x
 - MySQL - 8.0.x
   
@@ -228,4 +228,11 @@ Content-Type: application/json
  ```
 
 - DELETE : Delete a claim select DELETE request ```http://localhost:8080/api/claims/{mention claimId}```
+
+thia is all about this project, thank you.....
+
+Questions and Comments: rajofficial022@gmail.com
+
+
+
  
